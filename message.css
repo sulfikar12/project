@@ -1,0 +1,34 @@
+.container{
+    width: 100%;
+    height: 750px;
+    background-image: url('images/bmw.jpg');
+    background-position: center;
+    background-size: 100%;
+}
+.tag{
+    margin-left: 100px;
+    
+}
+.links{
+    color: whitesmoke;
+    margin-left: 68px;
+}
+h1{
+    
+    color: white;
+    margin-left: 570px;
+    
+}
+.des{
+    height: 45px;
+}
+.frm{
+    margin-left: 282px;
+    margin-top: 134px;
+}
+h2{
+    color: silver;
+}
+label{
+    color: silver;
+}

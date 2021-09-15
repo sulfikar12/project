@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+    height: 750px;
+    background-image: url('images/coop.jpg');
+    background-position: center;
+    background-size: 100%;
+}
+.tag{
+    margin-left: 100px;
+    
+}
+.links{
+    color: whitesmoke;
+    margin-left: 68px;
+}
+h1{
+    
+    color: red;
+    margin-left: 570px;
+}
+h2{
+    color: red;
+    font-weight: bold;
+
+}
+label{
+    color: rgb(255, 255, 255);
+    width: 220px;
+    display: inline-block;
+    margin: 8px;
+}
+.frm{
+    margin-left: 482px;
+    margin-top: 234px;
+}
+.des{
+    height: 45px;
+}

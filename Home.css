@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    height: 600px;
+    background-image: url('images/cars.jpg');
+    background-position: center;
+    background-size: 100%;
+}
+.heading{
+    text-align: center;
+    font-family: serif;
+    padding-top: 30px;
+}
+.second_form{
+    margin-left: 196px;
+    margin-top: 70px;
+}
+
+.year{
+  margin-left:12px;
+
+}
+.bt{
+    margin-left: 45px;
+
+}
+
+
+
+    
+
